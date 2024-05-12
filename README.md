@@ -22,5 +22,5 @@ Regular Expressions (re) module
 JSON (json) module
 How to Use:
 
-Clone the repository or download the Python script.
-Run the code 
+Clone the repository or download the final.ipynb Python script and the task.txt.
+Run the final.ipynb file code 
